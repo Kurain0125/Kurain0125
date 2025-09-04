@@ -472,5 +472,3 @@ canvas.pack(
 root.mainloop()# 啟動主循環
 ```
 ---
-
-## 
