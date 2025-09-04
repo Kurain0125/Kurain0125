@@ -59,7 +59,10 @@ for idx, img_src in enumerate(images):
 ```
 ---
 
+## 簡易機器模型訓練-影像相似度比對
+![圖片36](../assets/images/turtle36.png)
 
+---
 
 ## OpenCV-圖片臉部偵測
 ![圖片32](../assets/images/turtle32.png)
